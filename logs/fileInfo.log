@@ -45,3 +45,19 @@
 [2022-09-05 09:24:00]-[INFO]-[writeValueInFile]-[Duration of Time : 441000ns]
 [2022-09-05 09:24:08]-[INFO]-Starting ScheduleApiServerApplication using Java 17.0.4.1 on wonjunhoui-MacBookPro.local with PID 24636 (/Users/wonjunho/Desktop/junho/develop/codingTest/daouTech/scheduleApiServer/out/production/classes started by wonjunho in /Users/wonjunho/Desktop/junho/develop/codingTest/daouTech/scheduleApiServer)
 [2022-09-05 09:24:08]-[INFO]-No active profile set, falling back to 1 default profile: "default"
+[2022-09-12 14:10:17]-[INFO]-Starting ScheduleApiServerApplicationTests using Java 17.0.4.1 on wonjunhoui-MacBookPro.local with PID 15013 (started by wonjunho in /Users/wonjunho/Desktop/junho/develop/codeforInterviewPrac/scheduleApiServer)
+[2022-09-12 14:10:17]-[INFO]-No active profile set, falling back to 1 default profile: "default"
+[2022-09-12 14:10:21]-[INFO]-Started ScheduleApiServerApplicationTests in 4.622 seconds (JVM running for 5.791)
+[2022-09-12 14:10:21]-[INFO]-Step!
+[2022-09-12 14:10:22]-[INFO]-Starting SchedulerTest using Java 17.0.4.1 on wonjunhoui-MacBookPro.local with PID 15013 (started by wonjunho in /Users/wonjunho/Desktop/junho/develop/codeforInterviewPrac/scheduleApiServer)
+[2022-09-12 14:10:22]-[INFO]-No active profile set, falling back to 1 default profile: "default"
+[2022-09-12 14:10:23]-[INFO]-Started SchedulerTest in 1.221 seconds (JVM running for 7.332)
+[2022-09-12 14:11:00]-[INFO]-Start writeValueInFile... - path : {}
+[2022-09-12 14:11:00]-[INFO]-Check value for writing... - a content : 2022-09-12 14|30|61|40615|16758|8388
+
+[2022-09-12 14:11:00]-[INFO]-Start writeValueInFile... - path : {}
+[2022-09-12 14:11:00]-[INFO]-Check value for writing... - a content : 2022-09-12 14|67|30|8495|33403|14206
+
+[2022-09-12 14:11:00]-[INFO]-[writeValueInFile]-[Request Time : 2022-09-12 14:11:00]
+[2022-09-12 14:11:00]-[INFO]-[writeValueInFile]-[Response Time : 2022-09-12 14:11:00]
+[2022-09-12 14:11:00]-[INFO]-[writeValueInFile]-[Duration of Time : 7458000ns]

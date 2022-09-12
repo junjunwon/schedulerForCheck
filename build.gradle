@@ -73,7 +73,6 @@ dependencies {
 
 	//Spring Batch
 	implementation 'org.springframework.boot:spring-boot-starter-batch'
-	testImplementation 'org.springframework.security:spring-batch-test'
 }
 
 //querydsl 추가 시작
