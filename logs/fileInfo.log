@@ -1,0 +1,47 @@
+[2022-09-05 09:10:53]-[INFO]-Start writeValueInFile... - path : {}
+[2022-09-05 09:10:53]-[INFO]-Check value for writing... - a content : 2022-09-05 09|86|67|94892|65419|91677
+
+[2022-09-05 09:10:53]-[INFO]-[writeValueInFile]-[Request Time : 2022-09-05 09:10:53]
+[2022-09-05 09:10:53]-[INFO]-[writeValueInFile]-[Response Time : 2022-09-05 09:10:53]
+[2022-09-05 09:10:53]-[INFO]-[writeValueInFile]-[Duration of Time : 2680000ns]
+[2022-09-05 09:11:00]-[INFO]-Start writeValueInFile... - path : {}
+[2022-09-05 09:11:00]-[INFO]-Check value for writing... - a content : 2022-09-05 09|56|31|70526|96889|27396
+
+[2022-09-05 09:11:00]-[INFO]-[writeValueInFile]-[Request Time : 2022-09-05 09:11:00]
+[2022-09-05 09:11:00]-[INFO]-[writeValueInFile]-[Response Time : 2022-09-05 09:11:00]
+[2022-09-05 09:11:00]-[INFO]-[writeValueInFile]-[Duration of Time : 3887000ns]
+[2022-09-05 09:21:21]-[INFO]-[getFileListScheduler]-[Request Time : 2022-09-05 09:21:20]
+[2022-09-05 09:21:21]-[INFO]-[getFileListScheduler]-[Response Time : 2022-09-05 09:21:21]
+[2022-09-05 09:21:21]-[INFO]-[getFileListScheduler]-[Duration of Time : 800202000ns]
+[2022-09-05 09:21:24]-[INFO]-Start writeValueInFile... - path : {}
+[2022-09-05 09:21:24]-[INFO]-Check value for writing... - a content : 2022-09-05 09|1|83|64636|95904|29161
+
+[2022-09-05 09:21:24]-[INFO]-[writeValueInFile]-[Request Time : 2022-09-05 09:21:24]
+[2022-09-05 09:21:24]-[INFO]-[writeValueInFile]-[Response Time : 2022-09-05 09:21:24]
+[2022-09-05 09:21:24]-[INFO]-[writeValueInFile]-[Duration of Time : 3389000ns]
+[2022-09-05 09:21:57]-[INFO]-[getFileListScheduler]-[Request Time : 2022-09-05 09:21:57]
+[2022-09-05 09:21:57]-[INFO]-[getFileListScheduler]-[Response Time : 2022-09-05 09:21:57]
+[2022-09-05 09:21:57]-[INFO]-[getFileListScheduler]-[Duration of Time : 17529000ns]
+[2022-09-05 09:21:59]-[INFO]-Start writeValueInFile... - path : {}
+[2022-09-05 09:22:00]-[INFO]-Check value for writing... - a content : 2022-09-05 09|36|92|82361|82189|3763
+
+[2022-09-05 09:22:00]-[INFO]-[writeValueInFile]-[Request Time : 2022-09-05 09:21:59]
+[2022-09-05 09:22:00]-[INFO]-[writeValueInFile]-[Response Time : 2022-09-05 09:22:00]
+[2022-09-05 09:22:00]-[INFO]-[writeValueInFile]-[Duration of Time : 1623000ns]
+[2022-09-05 09:23:00]-[INFO]-Start writeValueInFile... - path : {}
+[2022-09-05 09:23:00]-[INFO]-Check value for writing... - a content : 2022-09-05 09|7|17|5717|54424|55760
+
+[2022-09-05 09:23:00]-[INFO]-[writeValueInFile]-[Request Time : 2022-09-05 09:23:00]
+[2022-09-05 09:23:00]-[INFO]-[writeValueInFile]-[Response Time : 2022-09-05 09:23:00]
+[2022-09-05 09:23:00]-[INFO]-[writeValueInFile]-[Duration of Time : 3855000ns]
+[2022-09-05 09:24:00]-[INFO]-[getFileListScheduler]-[Request Time : 2022-09-05 09:24:00]
+[2022-09-05 09:24:00]-[INFO]-[getFileListScheduler]-[Response Time : 2022-09-05 09:24:00]
+[2022-09-05 09:24:00]-[INFO]-[getFileListScheduler]-[Duration of Time : 16542000ns]
+[2022-09-05 09:24:00]-[INFO]-Start writeValueInFile... - path : {}
+[2022-09-05 09:24:00]-[INFO]-Check value for writing... - a content : 2022-09-05 09|91|86|51207|19225|99575
+
+[2022-09-05 09:24:00]-[INFO]-[writeValueInFile]-[Request Time : 2022-09-05 09:24:00]
+[2022-09-05 09:24:00]-[INFO]-[writeValueInFile]-[Response Time : 2022-09-05 09:24:00]
+[2022-09-05 09:24:00]-[INFO]-[writeValueInFile]-[Duration of Time : 441000ns]
+[2022-09-05 09:24:08]-[INFO]-Starting ScheduleApiServerApplication using Java 17.0.4.1 on wonjunhoui-MacBookPro.local with PID 24636 (/Users/wonjunho/Desktop/junho/develop/codingTest/daouTech/scheduleApiServer/out/production/classes started by wonjunho in /Users/wonjunho/Desktop/junho/develop/codingTest/daouTech/scheduleApiServer)
+[2022-09-05 09:24:08]-[INFO]-No active profile set, falling back to 1 default profile: "default"

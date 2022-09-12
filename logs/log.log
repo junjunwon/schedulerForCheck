@@ -1,0 +1,2 @@
+[2022-09-05 18:21:59]-[ERROR]-[logExceptions]-Table "USER_INFO" not found (this database is empty); SQL statement:
+insert into user_info (id, password, role, username) values (default, ?, ?, ?) [42104-214]
